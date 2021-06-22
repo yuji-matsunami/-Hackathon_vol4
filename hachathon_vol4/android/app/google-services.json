@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874298230799",
+    "project_id": "hachathon-vol4",
+    "storage_bucket": "hachathon-vol4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874298230799:android:edf7f4f67dbc332f64bb7a",
+        "android_client_info": {
+          "package_name": "com.example.hachathon_vol4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874298230799-og2njgtji43a13u4h21iul57j6d6cvbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBne3tCvt6cMQlnr3pzfR8G4g1MtgFJxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874298230799-og2njgtji43a13u4h21iul57j6d6cvbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
